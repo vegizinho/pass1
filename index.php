@@ -1,5 +1,5 @@
 <?php
 
-echo 'Hello World! We are testing Git.';
+echo '<h1>Hello World! We are testing Git.</h1>';
 
 ?>
